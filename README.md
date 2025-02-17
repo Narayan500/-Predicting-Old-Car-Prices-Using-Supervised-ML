@@ -1,4 +1,4 @@
-# -Predicting-Old-Car-Prices-Using-Supervised-ML
+# Predicting-Old-Car-Prices-Using-Supervised-ML
 Predicting Old Car Prices Using Supervised ML 🚗📈
 
 This project predicts the prices of old cars using supervised machine learning techniques. The model analyzes historical car sales data and employs regression algorithms to estimate car prices based on various features such as brand, model, year, mileage, fuel type, and more.
